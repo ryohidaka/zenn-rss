@@ -1,7 +1,7 @@
 {
-  "name": "@ryohidaka/npm-package-template",
+  "name": "zenn-rss",
   "version": "0.1.0",
-  "description": "Minimum configuration template for publishing packages to npm.",
+  "description": "ZennのRSSフィードを取得するライブラリ",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryohidaka/npm-package-template.git"
+    "url": "git+https://github.com/ryohidaka/zenn-rss.git"
   },
   "author": "ryohidaka",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ryohidaka/npm-package-template/issues"
+    "url": "https://github.com/ryohidaka/zenn-rss/issues"
   },
-  "homepage": "https://github.com/ryohidaka/npm-package-template#readme",
+  "homepage": "https://github.com/ryohidaka/zenn-rss#readme",
   "devDependencies": {
     "@types/jest": "^29.5.11",
     "@typescript-eslint/eslint-plugin": "^6.18.0",
