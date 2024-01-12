@@ -19,7 +19,21 @@ npm install zenn-rss
 
 ## Usage
 
+```typescript
+import { fetchZennRSS } from "zenn-rss";
+
+// Fetch all RSS Feed data
+const response = await fetchZennRSS(userId);
+console.log(response);
+
+// Fetch all articles
+const articles = await fetchZennArticles(userId);
+console.log(articles);
+```
+
 ## Link
+
+- [ZennをRSSフィードで購読する](https://zenn.dev/zenn/articles/zenn-feed-rss)
 
 ## License
 
