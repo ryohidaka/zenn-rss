@@ -2,6 +2,11 @@
   "name": "zenn-rss",
   "version": "0.1.0",
   "description": "ZennのRSSフィードを取得するライブラリ",
+  "keywords": [
+    "zenn",
+    "rss",
+    "feed"
+  ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
