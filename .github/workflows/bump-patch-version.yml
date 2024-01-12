@@ -26,6 +26,6 @@ jobs:
           git fetch origin main
           git pull origin main
 
-          # npm version patch --message "Bump version to %s"
+          npm version patch --message "Bump version to %s"
 
-          # git push
+          git push
