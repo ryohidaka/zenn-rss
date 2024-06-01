@@ -27,7 +27,7 @@
   "homepage": "https://github.com/ryohidaka/zenn-rss#readme",
   "devDependencies": {
     "@types/jest": "^29.5.11",
-    "@typescript-eslint/eslint-plugin": "^6.18.0",
+    "@typescript-eslint/eslint-plugin": "^7.11.0",
     "dotenv": "^16.3.1",
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
